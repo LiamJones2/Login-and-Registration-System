@@ -158,7 +158,7 @@ namespace registrationNamespace {
 
     //prints out username is already taken message
     void unfortunatelyThatUsernameIsAlreadyTakenMessage() {
-        std::cout << "Unforunately that username is already taken" << std::endl;
+        std::cout << "Unfortunately that username is already taken" << std::endl;
         std::cout << "Please try another username: ";
 
     }
